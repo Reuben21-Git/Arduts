@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
-<h3 align="center">Frontend Developer from Philippines</h3>
+<h3 align="center">Software Developer from Philippines</h3>
 
 - 🌱 I’m a Software Developer**
 
